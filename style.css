@@ -1,0 +1,20 @@
+/******************************************************************
+Theme Name: Academy
+Theme URI: 
+Description: Custom theme for The Academy, based on Bones
+Author: Martin Miller
+Author URI: https://github.com/m-miller
+Version: 1.7
+Tags: fluid-layout, responsive-layout, accessibility-ready, translation-ready, microformats, rtl-language-support
+
+License: GPLv3+
+License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
+
+
+/*
+
+*/
+
+.sticky {}          /* DO NOT EDIT THIS */
+.gallery-caption {} /* THESE ARE USELESS */
+.bypostauthor {}    /* THEY ARE ONLY TO KEEP THEME CHECK HAPPY */
